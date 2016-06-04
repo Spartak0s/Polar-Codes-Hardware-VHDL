@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Dropbox/Thesis Project/Hardware/Polar1024/system_isim_beh.exe" -prj "D:/Dropbox/Thesis Project/Hardware/Polar1024/system_beh.prj" "work.system" 

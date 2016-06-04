@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;0:2&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;3&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;4:6&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;7&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;8:10&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;11&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;12&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;13&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;14&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;15&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;16:18&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;19&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;20&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;21&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;22&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;23&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;24&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;25&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;26&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;27&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;28&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;29&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;30&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="new" >Signal &lt;<arg fmt="%s" index="1">P&lt;0&gt;&lt;31&gt;&lt;5:0&gt;</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="info" file="Xst" num="1767" delta="new" >HDL ADVISOR - Resource sharing has identified that some arithmetic operations in this design can share the same physical resources for reduced device utilization. For improved clock frequency you may try to disable resource sharing.
+</msg>
+
+<msg type="warning" file="Xst" num="524" delta="new" >All outputs of the instance &lt;<arg fmt="%s" index="1">G116</arg>&gt; of the block &lt;<arg fmt="%s" index="2">G</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="3">Decoder</arg>&gt;.
+This instance will be removed from the design along with all underlying logic
+</msg>
+
+<msg type="warning" file="Xst" num="524" delta="new" >All outputs of the instance &lt;<arg fmt="%s" index="1">G117</arg>&gt; of the block &lt;<arg fmt="%s" index="2">G</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="3">Decoder</arg>&gt;.
+This instance will be removed from the design along with all underlying logic
+</msg>
+
+<msg type="warning" file="Xst" num="524" delta="new" >All outputs of the instance &lt;<arg fmt="%s" index="1">G118</arg>&gt; of the block &lt;<arg fmt="%s" index="2">G</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="3">Decoder</arg>&gt;.
+This instance will be removed from the design along with all underlying logic
+</msg>
+
+<msg type="warning" file="Xst" num="524" delta="new" >All outputs of the instance &lt;<arg fmt="%s" index="1">G120</arg>&gt; of the block &lt;<arg fmt="%s" index="2">G</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="3">Decoder</arg>&gt;.
+This instance will be removed from the design along with all underlying logic
+</msg>
+
+<msg type="warning" file="Xst" num="524" delta="new" >All outputs of the instance &lt;<arg fmt="%s" index="1">G124</arg>&gt; of the block &lt;<arg fmt="%s" index="2">G</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="3">Decoder</arg>&gt;.
+This instance will be removed from the design along with all underlying logic
+</msg>
+
+<msg type="warning" file="Xst" num="524" delta="new" >All outputs of the instance &lt;<arg fmt="%s" index="1">G128</arg>&gt; of the block &lt;<arg fmt="%s" index="2">G</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="3">Decoder</arg>&gt;.
+This instance will be removed from the design along with all underlying logic
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F40</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F44</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F48</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F412</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F416</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F420</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F424</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F428</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F30</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G34</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F38</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G312</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F316</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G320</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F324</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G328</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F20</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F21</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F22</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F24</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G28</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G212</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F216</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F217</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F218</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F220</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G224</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">G228</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F10</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F11</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F12</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F14</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F15</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F16</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F18</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F19</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F110</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="new" >Hierarchical block &lt;<arg fmt="%s" index="1">F112</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">U_Decoder</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[9].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[9].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[9].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[9].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[9].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[9].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[29].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[29].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[29].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[29].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[29].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[29].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[8].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[8].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[8].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[8].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[8].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[8].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[28].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[28].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[28].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[28].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[28].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[28].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[7].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[7].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[7].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[7].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[7].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[7].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[27].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[27].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[27].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[27].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[27].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[27].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[6].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[6].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[6].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[6].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[6].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[6].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[31].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[31].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[31].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[31].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[31].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[31].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[26].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[26].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[26].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[26].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[26].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[26].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[5].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[5].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[5].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[5].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[5].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[5].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[30].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[30].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[30].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[30].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[30].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[30].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[25].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[25].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[25].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[25].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[25].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[25].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[4].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[4].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[4].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[4].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[4].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[4].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[24].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[24].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[24].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[24].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[24].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[24].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[19].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[19].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[19].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[19].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[19].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[19].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[3].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[3].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[3].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[3].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[3].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[3].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[23].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[23].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[23].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[23].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[23].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[23].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[18].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[18].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[18].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[18].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[18].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[18].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[2].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[2].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[2].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[2].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[2].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[2].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[22].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[22].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[22].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[22].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[22].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[22].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[17].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[17].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[17].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[17].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[17].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[17].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[1].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[1].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[1].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[1].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[1].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[1].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[21].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[21].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[21].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[21].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[21].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[21].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[16].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[16].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[16].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[16].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[16].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[16].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[0].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[0].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[0].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[0].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[0].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[0].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[20].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[20].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[20].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[20].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[20].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[20].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[15].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[15].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[15].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[15].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[15].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[15].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[14].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[14].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[14].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[14].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[14].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[14].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[13].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[13].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[13].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[13].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[13].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[13].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[12].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[12].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[12].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[12].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[12].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[12].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[11].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[11].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[11].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[11].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[11].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[11].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[10].U_D_FF_Inputs/q_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">5 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[10].U_D_FF_Inputs/q_5&gt; &lt;GEN_REG_INPUT[10].U_D_FF_Inputs/q_4&gt; &lt;GEN_REG_INPUT[10].U_D_FF_Inputs/q_3&gt; &lt;GEN_REG_INPUT[10].U_D_FF_Inputs/q_2&gt; &lt;GEN_REG_INPUT[10].U_D_FF_Inputs/q_1&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">GEN_REG_INPUT[31].U_D_FF_Inputs/q_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">Decoder</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">31 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;GEN_REG_INPUT[30].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[29].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[28].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[27].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[26].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[25].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[24].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[23].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[22].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[21].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[20].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[19].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[18].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[17].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[16].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[15].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[14].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[13].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[12].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[11].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[10].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[9].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[8].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[7].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[6].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[5].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[4].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[3].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[2].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[1].U_D_FF_Inputs/q_0&gt; &lt;GEN_REG_INPUT[0].U_D_FF_Inputs/q_0&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">U_Delay1/q_15</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">system</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;U_Decoder/GEN_REG_INPUT[31].U_D_FF_Inputs/q_6&gt; </arg>
+</msg>
+
+</messages>
+

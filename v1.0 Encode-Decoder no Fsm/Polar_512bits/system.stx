@@ -1,0 +1,56 @@
+Release 14.2 - xst P.28xd (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> Parameter xsthdpdir set to D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/MyPackage.vhd" in Library work.
+Architecture mypackage of Entity mypackage is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/D_FF.vhd" in Library work.
+Architecture behavioral of Entity d_ff_gen is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/F.vhd" in Library work.
+Architecture behavioral of Entity f is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/G.vhd" in Library work.
+Architecture behavioral of Entity g is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/D_FF_1bit.vhd" in Library work.
+Architecture behavioral of Entity d_ff_1bit is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/PartialSumGenerator.vhd" in Library work.
+Architecture behavioral of Entity partialsumgenerator is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/counter.vhd" in Library work.
+Entity <counter> compiled.
+Entity <counter> (Architecture <behv>) compiled.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/Encoder512.vhd" in Library work.
+Architecture behavioral of Entity encoder512 is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/llr_test.vhd" in Library work.
+Architecture behavioral of Entity llr_test is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/Decoder512.vhd" in Library work.
+Architecture behavioral of Entity decoder512 is up to date.
+Compiling vhdl file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/system.vhd" in Library work.
+Entity <system> compiled.
+Entity <system> (Architecture <Behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 9.00 secs
+Total CPU time to Xst completion: 8.83 secs
+ 
+--> 
+
+Total memory usage is 288024 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

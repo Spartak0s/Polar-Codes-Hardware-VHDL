@@ -1,0 +1,7 @@
+work	"D_FF.vhd"
+work	"D_FF_N.vhd"
+work	"Decoder512.vhd"
+work	"F.vhd"
+work	"G.vhd"
+work	"MyPackage.vhd"
+work	"PartialSumGenerator.vhd"

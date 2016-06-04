@@ -1,0 +1,5 @@
+set -tmpdir "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/xst/projnav.tmp"
+set -xsthdpdir "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_512bits/xst"
+elaborate
+-ifn system.prj
+-ifmt mixed

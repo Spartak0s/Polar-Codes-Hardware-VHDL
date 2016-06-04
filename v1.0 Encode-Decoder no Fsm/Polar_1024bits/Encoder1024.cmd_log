@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "D:/Dropbox/Thesis Project/Hardware/Polar1024/Encoder1024.xst" -ofn "D:/Dropbox/Thesis Project/Hardware/Polar1024/Encoder1024.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7v2000t-flg1925-2 "Encoder1024.ngc" Encoder1024.ngd  
+map -intstyle ise -p xc7v2000t-flg1925-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Encoder1024_map.ncd Encoder1024.ngd Encoder1024.pcf 
+xst -intstyle ise -ifn "D:/Dropbox/Thesis Project/Hardware/Polar1024/Encoder1024.xst" -ofn "D:/Dropbox/Thesis Project/Hardware/Polar1024/Encoder1024.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7vx330t-ffg1157-2 "Encoder1024.ngc" Encoder1024.ngd  
+map -intstyle ise -p xc7vx330t-ffg1157-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Encoder1024_map.ncd Encoder1024.ngd Encoder1024.pcf 
+map -intstyle ise -p xc7vx330t-ffg1157-2 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Encoder1024_map.ncd Encoder1024.ngd Encoder1024.pcf 

@@ -1,0 +1,42 @@
+Running: C:\Xilinx\14.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/system_isim_beh.exe -prj D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/system_beh.prj work.system 
+ISim P.28xd (signature 0xa0883be4)
+Number of CPUs detected in this system: 6
+Turning on mult-threading, number of parallel sub-compilation jobs: 12 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/MyPackage.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/PartialSumGenerator.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/G.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/F.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/D_FF_1bit.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/D_FF.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/llr_test.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/Encoder.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/Decoder.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/counter.vhd" into library work
+Parsing VHDL file "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/system.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package math_real
+Compiling package mypackage
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behv of entity counter [\counter(16)\]
+Compiling architecture behavioral of entity D_FF_gen [\D_FF_gen(16)\]
+Compiling architecture behavioral of entity Encoder [encoder_default]
+Compiling architecture behavioral of entity llr_test [llr_test_default]
+Compiling architecture behavioral of entity D_FF_gen [\D_FF_gen(7)\]
+Compiling architecture behavioral of entity F [f_default]
+Compiling architecture behavioral of entity G [g_default]
+Compiling architecture behavioral of entity D_FF_1bit [d_ff_1bit_default]
+Compiling architecture behavioral of entity PartialSumGenerator [partialsumgenerator_default]
+Compiling architecture behavioral of entity Decoder [decoder_default]
+Compiling architecture behavioral of entity system
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 28 VHDL Units
+Built simulation executable D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/system_isim_beh.exe
+Fuse Memory Usage: 38368 KB
+Fuse CPU Usage: 1045 ms

@@ -1,0 +1,2 @@
+vhdl work "MyPackage.vhd"
+vhdl work "llr_test.vhd"

@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_32bits/system.xst" -ofn "D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decode no Fsm/Polar_32bits/system.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s700a-fg484-4 "system.ngc" system.ngd  
+map -intstyle ise -p xc3s700a-fg484-4 -cm area -ir off -pr off -c 100 -o system_map.ncd system.ngd system.pcf 
+par -w -intstyle ise -ol high -t 1 system_map.ncd system.ncd system.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml system.twx system.ncd -o system.twr system.pcf 

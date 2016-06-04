@@ -1,0 +1,197 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="Polar_32bits" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Decoder - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|Decoder.vhd</ClosedNode>
+         <ClosedNode>/IO_Outputs - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|IO_Outputs.vhd</ClosedNode>
+         <ClosedNode>/encoder_top_entity - struct D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|encoder_channel_vhd.vhd</ClosedNode>
+         <ClosedNode>/mysystem - struct D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|mysystem.vhd</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Encoder - encoder - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Inputs_to_registers - IO_Input - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Registers_to_output - IO_Outputs - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|system.vhd/Decoder - Decoder - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|system.vhd/Input_registers - IO_Input - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|system.vhd/Output_register - IO_Outputs - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|system.vhd/U_Decoder - Decoder - Behavioral</ClosedNode>
+         <ClosedNode>/test - behavior D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|test.vhd</ClosedNode>
+         <ClosedNode>/test - behavior D:|Dropbox|Thesis Project|Hardware|Polar_32bits|test.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>system - Behavioral (D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/system.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000384000000020000000000000000000000000200000064ffffffff000000810000000300000002000003840000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>system - Behavioral (D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/system.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000196000000010000000100000000000000000000000064ffffffff000000810000000000000001000001960000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000003a3000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000002d70000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>D:\Dropbox\Thesis Project\Hardware\v1.0 Encode-Decoder no Fsm\Polar_32bits\counter.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>D:\Dropbox\Thesis Project\Hardware\v1.0 Encode-Decoder no Fsm\Polar_32bits\MyPackage.vhd</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000001e6000000010001000100000000000000000000000064ffffffff000000810000000000000001000001e60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>D:\Dropbox\Thesis Project\Hardware\v1.0 Encode-Decoder no Fsm\Polar_32bits\MyPackage.vhd</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>View RTL Schematic</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001d5000000010000000100000000000000000000000064ffffffff000000810000000000000001000001d50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>View RTL Schematic</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/Decoder - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|Decoder.vhd</ClosedNode>
+         <ClosedNode>/Decoder - Behavioral D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|Decoder.vhd</ClosedNode>
+         <ClosedNode>/IO_Input - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|IO_Input.vhd</ClosedNode>
+         <ClosedNode>/IO_Input - Behavioral D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|IO_Input.vhd</ClosedNode>
+         <ClosedNode>/IO_Outputs - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|IO_Outputs.vhd</ClosedNode>
+         <ClosedNode>/IO_Outputs - Behavioral D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|IO_Outputs.vhd</ClosedNode>
+         <ClosedNode>/channel_testbench - behavior D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|channel_testbench.vhd</ClosedNode>
+         <ClosedNode>/channel_testbench - behavior D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|channel_testbench.vhd/uut - mysystem - struct</ClosedNode>
+         <ClosedNode>/channel_testbench - behavior D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|channel_testbench.vhd</ClosedNode>
+         <ClosedNode>/mt2 - struct D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|mt2.vhd</ClosedNode>
+         <ClosedNode>/mycos - struct D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|mycos.vhd</ClosedNode>
+         <ClosedNode>/mylog2 - struct D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|mylog2.vhd</ClosedNode>
+         <ClosedNode>/mysystem - struct D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|mysystem.vhd</ClosedNode>
+         <ClosedNode>/mysystem - struct D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|mysystem.vhd/tel1 - mytel - struct</ClosedNode>
+         <ClosedNode>/pinakes2 - struct D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|pinakes2.vhd</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_mc11 - mac - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_mc12 - mac - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_mc21 - mac - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_mc22 - mac - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_th1 - myawgn - struct/U_bm1 - BoxMuller - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_th1 - myawgn - struct/U_bm2 - BoxMuller - struct/U_cos1 - mycos - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_th1 - myawgn - struct/U_bm2 - BoxMuller - struct/U_log1 - mylog2 - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_th1 - myawgn - struct/U_bm2 - BoxMuller - struct/U_ma5 - mac - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Channel - mysystem - struct/tel1 - mytel - struct/U_th1 - myawgn - struct/U_mt1 - mt2 - struct/U_pin1 - pinakes2 - struct</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|system.vhd/Inputs_to_registers - IO_Input - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|system.vhd/Decoder - Decoder - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|system.vhd/Input_registers - IO_Input - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|Polar_32bits|system.vhd/Output_register - IO_Outputs - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|system.vhd/Decoder - Decoder - Behavioral</ClosedNode>
+         <ClosedNode>/system - Behavioral D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|system.vhd/U_Decoder - Decoder - Behavioral</ClosedNode>
+         <ClosedNode>/test - behavior D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|test.vhd</ClosedNode>
+         <ClosedNode>/test - behavior D:|Dropbox|Thesis Project|Hardware|Backup|Polar_32bits|test.vhd/uut - Decoder - Behavioral</ClosedNode>
+         <ClosedNode>/test - behavior D:|Dropbox|Thesis Project|Hardware|Polar_32bits|test.vhd/uut - Decoder - Behavioral</ClosedNode>
+         <ClosedNode>/test - behavior D:|Dropbox|Thesis Project|Hardware|v1.0 Encode-Decode no Fsm|Polar_32bits|test.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Partials - PartialSumGenerator - Behavioral (D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/PartialSumGenerator.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >174</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >194</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000384000000020000000000000000000000000200000064ffffffff000000810000000300000002000003840000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Partials - PartialSumGenerator - Behavioral (D:/Dropbox/Thesis Project/Hardware/v1.0 Encode-Decoder no Fsm/Polar_32bits/PartialSumGenerator.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001f5000000010000000100000000000000000000000064ffffffff000000810000000000000001000001f50000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001e6000000010000000100000000000000000000000064ffffffff000000810000000000000001000001e60000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000178000000010000000100000000000000000000000064ffffffff000000810000000000000001000001780000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001340000014601000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_PACKAGE_BODY" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" />
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+</Project>
